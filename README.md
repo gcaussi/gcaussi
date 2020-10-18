@@ -1,4 +1,6 @@
-### Hi there 👋
+![Foto de Capa](foto-de-capa.jpeg)
+
+## Hey 👋
 
 <!--
 **gcaussi/gcaussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
