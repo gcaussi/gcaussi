@@ -3,8 +3,8 @@
 ## Hey 👋
 
 <div align="right">
-  <a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="images/linkedin-icon.svg" alt="linkedin" width="15"/></a>
-  <a href="https://www.instagram.com/g_caussi/"><img src="images/instagram-icon.svg" alt="instagram" width="15"/></a>
+  <a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="images/linkedin-icon.svg" alt="linkedin" width="50"/></a> 
+  <a href="https://www.instagram.com/g_caussi/"><img src="images/instagram-icon.svg" alt="instagram" width="50"/></a>
 </div>
 
 ### Find me elsewhere 🌎
