@@ -2,12 +2,10 @@
 
 ## Hey 👋
 
-<div align="right">
-  Site<a href="https://www.gabrielcaussi.com/"><img src="images/site-icon.svg" alt="site" width="25"/></a><br>
-  Linkedin<a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="images/linkedin-icon.svg" alt="linkedin" width="25"/></a><br>
-  Instagram<a href="https://www.instagram.com/g_caussi/"><img src="images/instagram-icon.svg" alt="instagram" width="25"/></a><br>
-  Gmail<a href="https://www.instagram.com/g_caussi/"><img src="images/gmail-icon.svg" alt="gmail" width="25"/></a><br>
-</div>
+<a href="https://www.gabrielcaussi.com/"><img src="images/site-icon.svg" alt="site" width="25"/></a><br>Site
+<a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="images/linkedin-icon.svg" alt="linkedin" width="25"/></a><br>Linkedin
+<a href="https://www.instagram.com/g_caussi/"><img src="images/instagram-icon.svg" alt="instagram" width="25"/></a><br>Instagram
+<a href="https://www.instagram.com/g_caussi/"><img src="images/gmail-icon.svg" alt="gmail" width="25"/></a><br>Gmail
 
 ### Find me elsewhere 🌎
 
