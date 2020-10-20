@@ -10,19 +10,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
-    <img src="src/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:25px 25px">
+    <img src="src/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.instagram.com/g_caussi/">
-    <img src="src/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:25px 25px">
+    <img src="src/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>
 
   <a href="https://www.twitter.com/g_caussi/">
-    <img src="src/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:25px 25px">
+    <img src="src/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
   
   <a href="https://www.gmail.com/gcaussi">
-    <img src="src/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:25px 25px">
+    <img src="src/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
 
