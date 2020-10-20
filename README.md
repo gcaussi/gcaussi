@@ -3,7 +3,7 @@
 ## Hey 👋
 
 <a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="images/linkedin-icon.svg" alt="linkedin" width="20"/> Linkedin </a>
-<a href="https://www.instagram.com/gabrielcaussi/"><img src="images/instagram-icon.svg" alt="instagram" width="20"/> Instagram </a>
+<a href="https://www.instagram.com/g_caussi/"><img src="images/instagram-icon.svg" alt="instagram" width="20"/> Instagram </a>
 
 <!--
 **gcaussi/gcaussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
