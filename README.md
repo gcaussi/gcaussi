@@ -8,7 +8,7 @@
 
 ### Contact me 📱
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
     <img src="src/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>
