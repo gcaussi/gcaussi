@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub! 👋
 
-I am a lover of technology in general, being hardware or software. I have a focus on Front-End Web Developer and I am passionate about Javascript, mainly for the reuse of code between different platforms, whether Desktop, Mobile or Web.
+I am a lover of technology in general, being hardware or software. I have a focus on Front-End Web Development and I am passionate about Javascript, mainly for the reuse of code between different platforms, whether Desktop, Mobile or Web.
 
 I am currently learning 👨‍💻 the React and React Native frameworks.
 
