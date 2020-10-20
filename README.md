@@ -1,15 +1,40 @@
-![Foto de Capa](foto-de-capa.jpeg)
+![Foto de Capa](images/foto-de-capa.jpeg)
 
 ## Hey 👋
 
-<a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="linkedin-icon.svg" alt="linkedin" width="20"/> Linkedin </a>
-<a href="https://www.instagram.com/gabrielcaussi/"><img src="instagram-icon.svg" alt="instagram" width="20"/> Instagram </a>
+### Find me elsewhere 🌎
+
+### What I'm working on 👨‍💻
+
+### Contact me 📱
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielcaussi/">
+    <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:10px 8px">
+  </a>
+
+  <a href="https://www.instagram.com/g_caussi/">
+    <img src="svg/instagram.svg" alt="instagram" style="vertical-align:top; margin:10px 8px">
+  </a>
+
+  <a href="https://www.twitter.com/g_caussi/">
+    <img src="svg/twitter.svg" alt="twitter" style="vertical-align:top; margin:10px 8px">
+  </a>
+  
+  <a href="https://www.gmail.com/gcaussi">
+    <img src="svg/gmail.svg" alt="gmail" style="vertical-align:top; margin:10px 8px">
+  </a>
+</p>
+
+
+  
+
+
+
+
+
 
 <!--
-**gcaussi/gcaussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
