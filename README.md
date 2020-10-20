@@ -5,7 +5,7 @@
 <div align="right">
   <a href="https://www.linkedin.com/in/gabrielcaussi/"><img src="images/linkedin-icon.svg" alt="linkedin" width="25"/></a>
   <a href="https://www.instagram.com/g_caussi/"><img src="images/instagram-icon.svg" alt="instagram" width="25"/></a>
-  <a href="https://www.instagram.com/g_caussi/"><img src="images/gmail-icon.svg" alt="gmail" width="25"/></a>
+  <a href="https://www.instagram.com/g_caussi/"><img src="images/gmail-icon.svg" alt="gmail" width="25" height="25"/></a>
 </div>
 
 ### Find me elsewhere 🌎
