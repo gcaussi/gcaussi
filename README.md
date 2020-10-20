@@ -2,11 +2,11 @@
 
 ## Hey 👋
 
-### Find me elsewhere 🌎
+I am a lover of technology in general, being hardware or software. I have a focus on Front-End Web Development and I am passionate about Javascript, mainly for the reuse of code between different platforms, whether Desktop, Mobile or Web.
 
-### What I'm working on 👨‍💻
+I am currently learning 👨‍💻 the React and React Native frameworks.
 
-### Contact me 📱
+### Find me elsewhere 📱🌎
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
@@ -36,7 +36,7 @@
 
 <!--
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
