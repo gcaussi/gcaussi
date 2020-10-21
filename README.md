@@ -21,7 +21,7 @@ I am currently learning 👨‍💻 the React and React Native frameworks.
     <img src="src/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>
   
-  <a href="https://www.gmail.com/gcaussi">
+  <a href="https://gcaussi.github.io/">
     <img src="src/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
