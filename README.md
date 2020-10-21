@@ -6,7 +6,7 @@ I am a lover of technology in general, being hardware or software. I have a focu
 
 I am currently learning 👨‍💻 the React and React Native frameworks.
 
-### Find me elsewhere 📱🌎
+## Find me elsewhere 📱🌎
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielcaussi/">
